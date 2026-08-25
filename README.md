@@ -1,4 +1,4 @@
-# 🚀 A2Z DSA Sheet
+#  A2Z DSA Sheet
 
 A structured collection of my solutions and practice for the **A2Z DSA Course/Sheet**, covering Data Structures and Algorithms from the fundamentals to advanced problem-solving.
 
@@ -6,7 +6,7 @@ The goal of this repository is to build strong problem-solving skills, improve D
 
 ---
 
-## 📚 About the A2Z DSA Sheet
+##  About the A2Z DSA Sheet
 
 The **A2Z DSA Sheet** provides a structured roadmap for learning and practicing Data Structures and Algorithms.
 
@@ -32,7 +32,7 @@ It covers topics progressively, starting from basic programming concepts and mov
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```text
 A2Z-DSA-Sheet/
@@ -60,7 +60,7 @@ A2Z-DSA-Sheet/
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 * Build strong DSA fundamentals
 * Solve problems consistently
@@ -69,33 +69,9 @@ A2Z-DSA-Sheet/
 * Prepare for technical interviews and coding rounds
 * Maintain a clean and organized record of my DSA journey
 
----
+-----
 
-## 📈 Progress
-
-| Topic                         | Status         |
-| ----------------------------- | -------------- |
-| Basics                        | 🔄 In Progress |
-| Sorting                       | ⬜ Not Started  |
-| Arrays                        | ⬜ Not Started  |
-| Binary Search                 | ⬜ Not Started  |
-| Strings                       | ⬜ Not Started  |
-| Linked List                   | ⬜ Not Started  |
-| Recursion                     | ⬜ Not Started  |
-| Bit Manipulation              | ⬜ Not Started  |
-| Stack & Queue                 | ⬜ Not Started  |
-| Sliding Window & Two Pointers | ⬜ Not Started  |
-| Heap                          | ⬜ Not Started  |
-| Greedy                        | ⬜ Not Started  |
-| Binary Trees                  | ⬜ Not Started  |
-| Binary Search Trees           | ⬜ Not Started  |
-| Graphs                        | ⬜ Not Started  |
-| Dynamic Programming           | ⬜ Not Started  |
-| Tries                         | ⬜ Not Started  |
-
----
-
-## 💻 Solutions
+## Solutions
 
 Each solution is organized according to its corresponding topic.
 
@@ -112,7 +88,7 @@ The focus is not just on solving problems, but on understanding **why the soluti
 
 ---
 
-## 🛠️ Languages
+## Languages
 
 Currently solving problems using:
 
@@ -122,7 +98,7 @@ More languages may be added later for comparison and practice.
 
 ---
 
-## 🧠 Problem-Solving Approach
+##  Problem-Solving Approach
 
 For each problem, I try to follow this process:
 
@@ -158,7 +134,7 @@ Through this repository, I am focusing on improving:
 
 ---
 
-## 🔥 Consistency > Speed
+##  Consistency > Speed
 
 This repository is a record of my **DSA learning journey**.
 
@@ -168,7 +144,7 @@ The goal is not to complete the sheet as quickly as possible, but to develop the
 
 ---
 
-## ⭐ Progress Tracking
+##  Progress Tracking
 
 I will continuously update this repository as I solve more problems.
 
@@ -182,7 +158,7 @@ A2Z DSA Sheet by **Striver / takeUforward**.
 
 ---
 
-### 👨‍💻 My DSA Journey
+## My DSA Journey
 
 > **One problem at a time. One concept at a time. One step closer to becoming a better problem solver.**
 
