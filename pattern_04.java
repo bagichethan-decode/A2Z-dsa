@@ -10,3 +10,4 @@ class pattern_4 {
 
     }
 }
+
