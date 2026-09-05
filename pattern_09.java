@@ -25,6 +25,8 @@ public class pattern_9 {
                     System.out.print("*");
                 }
                 System.out.println();
+
+                
             }
         }
     }
