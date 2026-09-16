@@ -1,0 +1,20 @@
+class Solution {
+    public int[] insertionSort(int[] nums) {
+        sort(nums, nums.length);
+        return nums;
+    }
+
+    void sort(int[] a, int n) {
+        if (n <= 1) return;
+        sort(a, n - 1);
+        insert(a, n - 1);
+    }
+
+    void insert(int[] a, int i) {
+        if (i == 0 || a[i - 1] <= a[i]) return;
+        int temp = a[i];
+        a[i] = a[i - 1];
+        a[i - 1] = temp;
+        insert(a, i - 1);
+    }
+}
