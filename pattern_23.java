@@ -1,5 +1,5 @@
 class Solution {
-    public void pattern22(int n) {
+    public void pattern23(int n) {
         int size = 2 * n - 1;
 
         for (int i = 0; i < size; i++) {
