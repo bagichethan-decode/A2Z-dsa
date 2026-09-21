@@ -15,3 +15,6 @@ class Solution {
         return secondLargest;
     }
 }
+
+//- **Time Complexity:** `O(n)` — Traverses the array only once.
+//- **Space Complexity:** `O(1)` — Uses constant extra space.
