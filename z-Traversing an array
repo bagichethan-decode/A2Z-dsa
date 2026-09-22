@@ -10,3 +10,7 @@ class Solution {
         nums[nums.length - 1] = first;
     }
 }
+
+
+//Time: O(n)
+//Space: O(1)
