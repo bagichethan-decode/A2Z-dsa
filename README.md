@@ -152,7 +152,7 @@ If you're also working through the A2Z DSA Sheet, feel free to explore the solut
 
 ---
 
-## 📌 Reference
+##  Reference
 
 A2Z DSA Sheet by **Striver / takeUforward**.
 
