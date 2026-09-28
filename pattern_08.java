@@ -18,4 +18,3 @@ public class pattern_8 {
         }
     }
 }
-
