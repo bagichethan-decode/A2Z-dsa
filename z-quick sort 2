@@ -1,0 +1,17 @@
+def quicksort(arr):
+    # If the list has 0 or 1 item, it's already sorted
+    if len(arr) <= 1:
+        return arr
+
+    pivot = arr[-1]  # Pick the last element
+
+    # Split into smaller and bigger
+    left = [x for x in arr[:-1] if x <= pivot]
+    right = [x for x in arr[:-1] if x > pivot]
+
+    # Repeat on both sides and glue together
+    return quicksort(left) + [pivot] + quicksort(right)
+
+
+print(quicksort([5, 2, 6, 1, 3]))
+# Output: [1, 2, 3, 5, 6]
